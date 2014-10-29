@@ -1,0 +1,3782 @@
+[
+    {
+        "course_code": "CSC104H1",
+        "datetime": "MWF9",
+        "lecturer": "D. Heap",
+        "location": "WB 116",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Computational Thinking"
+    },
+    {
+        "course_code": "CSC104H1",
+        "datetime": "TRF9",
+        "lecturer": "G. Baumgartner",
+        "location": "WB 116",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Computational Thinking"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "TBA",
+        "lecturer": "P. Gries",
+        "location": "On-line course",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "MWF10",
+        "lecturer": "J. Campbell",
+        "location": "MB 128",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "MWF10",
+        "lecturer": "T. Fairgrieve",
+        "location": "WB 116",
+        "section": "L0202",
+        "semester": "F",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "MWF1",
+        "lecturer": "J. Campbell",
+        "location": "HS 610",
+        "section": "L0301",
+        "semester": "F",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "W6-9",
+        "lecturer": "T. Fairgrieve",
+        "location": "MS 3153",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "TBA",
+        "lecturer": "J. Campbell",
+        "location": "On-line course",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "MWF10",
+        "lecturer": "T. Fairgrieve",
+        "location": "HS 610",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC108H1",
+        "datetime": "W6-9",
+        "lecturer": "T. Fairgrieve",
+        "location": "MS 3154",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Intro to Comp Prog"
+    },
+    {
+        "course_code": "CSC120H1",
+        "datetime": "MW10",
+        "lecturer": "Tba",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "S",
+        "title": "CompSci for Sciences"
+    },
+    {
+        "course_code": "CSC120H1",
+        "datetime": "TF3",
+        "lecturer": "R. Neal",
+        "location": "MP 202",
+        "section": "L0201",
+        "semester": "S",
+        "title": "CompSci for Sciences"
+    },
+    {
+        "course_code": "CSC120H1",
+        "datetime": "T3-5",
+        "lecturer": "R. Neal",
+        "location": "MP 202",
+        "section": "T0101",
+        "semester": "S",
+        "title": "CompSci for Sciences"
+    },
+    {
+        "course_code": "CSC120H1",
+        "datetime": "W1-3",
+        "lecturer": "R. Neal",
+        "location": "MP 202",
+        "section": "T0201",
+        "semester": "S",
+        "title": "CompSci for Sciences"
+    },
+    {
+        "course_code": "CSC120H1",
+        "datetime": "T5-7",
+        "lecturer": "R. Neal",
+        "location": "MP 202",
+        "section": "T5101",
+        "semester": "S",
+        "title": "CompSci for Sciences"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "MW9",
+        "lecturer": "D. Liu",
+        "location": "LM 159",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "MW10",
+        "lecturer": "D. Liu",
+        "location": "SF 1101",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R9-11",
+        "lecturer": "D. Liu",
+        "location": "SF 1101",
+        "section": "T0101",
+        "semester": "F",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R11-1",
+        "lecturer": "D. Liu",
+        "location": "SF 1101",
+        "section": "T0201",
+        "semester": "F",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R7-9",
+        "lecturer": "D. Liu",
+        "location": "SF 1101",
+        "section": "T5101",
+        "semester": "F",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "MW9",
+        "lecturer": "D. Horton",
+        "location": "WB 116",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "MW10",
+        "lecturer": "D. Heap",
+        "location": "WB 116",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "W6-8",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R9-11",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "T0101",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R11-1",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "T0201",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R1-3",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "T0301",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R3-5",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "T0401",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "F11-1",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "T0501",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R5-7",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "T5101",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC148H1",
+        "datetime": "R7-9",
+        "lecturer": "D. Heap",
+        "location": "MS 3153",
+        "section": "T5201",
+        "semester": "S",
+        "title": "Intro to Comp Sci"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "MWF11",
+        "lecturer": "D. Heap",
+        "location": "M: SS 2102\r\n  WF: UC 140",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "T9-11",
+        "lecturer": "D. Heap",
+        "location": "UC 140",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "MWF12",
+        "lecturer": "D. Heap",
+        "location": "MP 203",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "M7-9",
+        "lecturer": "D. Heap",
+        "location": "BA 1130",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "T6-9",
+        "lecturer": "Tba",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "R7-9",
+        "lecturer": "Tba",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "MWF11",
+        "lecturer": "Tba",
+        "location": "MP 103",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "T2-4",
+        "lecturer": "Tba",
+        "location": "MP 203",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "MWF2",
+        "lecturer": "Tba",
+        "location": "MF: MP 102\r\n  W: MP 103",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC165H1",
+        "datetime": "R2-4",
+        "lecturer": "Tba",
+        "location": "MP 103",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Math Expr&Rsng for Cs"
+    },
+    {
+        "course_code": "CSC200Y1",
+        "datetime": "MWF3",
+        "lecturer": "Borodin/Boutilier",
+        "location": "Fall: SS 1069\r\n  Winter: LM 161",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Eco & Soc Networks"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "M12",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "CDF Labs",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "WF12",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "M2",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "CDF Labs",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "WF2",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1170",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "W5",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "CDF Labs",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "W6-8",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1170",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "M6",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "MC 252",
+        "section": "L5201",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "M7-9",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "MC 252",
+        "section": "L5201",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "M1",
+        "lecturer": "J. Campbell",
+        "location": "CDF Labs",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "WF1",
+        "lecturer": "J. Campbell",
+        "location": "SS 1085",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "M1",
+        "lecturer": "J. Campbell",
+        "location": "CDF Labs",
+        "section": "L2003",
+        "semester": "S",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC207H1",
+        "datetime": "WF1",
+        "lecturer": "J. Campbell",
+        "location": "SS 1085",
+        "section": "L2003",
+        "semester": "S",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "TR1",
+        "lecturer": "M. Craig",
+        "location": "MP 102",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "TR1",
+        "lecturer": "M. Craig",
+        "location": "MP 102",
+        "section": "L2003",
+        "semester": "F",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "F11",
+        "lecturer": "M. Craig",
+        "location": "MP 102",
+        "section": "T0101",
+        "semester": "F",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "F12",
+        "lecturer": "M. Craig",
+        "location": "MP 102",
+        "section": "T0201",
+        "semester": "F",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "MW12",
+        "lecturer": "K. Reid",
+        "location": "MP 203",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "W6-8",
+        "lecturer": "K. Reid",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "F1",
+        "lecturer": "K. Reid",
+        "location": "BA 1130",
+        "section": "T0101",
+        "semester": "S",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "F2",
+        "lecturer": "K. Reid",
+        "location": "BA 1130",
+        "section": "T0201",
+        "semester": "S",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "F3",
+        "lecturer": "K. Reid",
+        "location": "BA 1130",
+        "section": "T0301",
+        "semester": "S",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC209H1",
+        "datetime": "W8",
+        "lecturer": "K. Reid",
+        "location": "BA 1130",
+        "section": "T5101",
+        "semester": "S",
+        "title": "Soft Tools & Sys Prog"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "M11",
+        "lecturer": "G. Baumgartner",
+        "location": "MP 102",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "WF11",
+        "lecturer": "G. Baumgartner",
+        "location": "MP 102",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "R10",
+        "lecturer": "G. Baumgartner",
+        "location": "LM 162",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "R11-1",
+        "lecturer": "G. Baumgartner",
+        "location": "LM 162",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "R6",
+        "lecturer": "G. Baumgartner",
+        "location": "BA 1180",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "R7-9",
+        "lecturer": "G. Baumgartner",
+        "location": "BA 1180",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "TR1",
+        "lecturer": "G. Baumgartner",
+        "location": "RW 117",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "R2",
+        "lecturer": "G. Baumgartner",
+        "location": "RW 117",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "TR1",
+        "lecturer": "G. Baumgartner",
+        "location": "RW 117",
+        "section": "L2003",
+        "semester": "S",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC236H1",
+        "datetime": "R2",
+        "lecturer": "G. Baumgartner",
+        "location": "RW 117",
+        "section": "L2003",
+        "semester": "S",
+        "title": "Intro to Theory Comp"
+    },
+    {
+        "course_code": "CSC240H1",
+        "datetime": "MWF11",
+        "lecturer": "F. Ellen",
+        "location": "RW 110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Enr Intro Theor Comp"
+    },
+    {
+        "course_code": "CSC240H1",
+        "datetime": "T6-9",
+        "lecturer": "S. Engels",
+        "location": "MB 128",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Enr Intro Theor Comp"
+    },
+    {
+        "course_code": "CSC240H1",
+        "datetime": "R6-9",
+        "lecturer": "S. Engels",
+        "location": "ECE Labs",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Enr Intro Theor Comp"
+    },
+    {
+        "course_code": "CSC258H1",
+        "datetime": "MWF11",
+        "lecturer": "S. Engels",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Computer Organizatn"
+    },
+    {
+        "course_code": "CSC258H1",
+        "datetime": "W6-9",
+        "lecturer": "S. Engels",
+        "location": "ECE Labs",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Computer Organizatn"
+    },
+    {
+        "course_code": "CSC258H1",
+        "datetime": "M6-9",
+        "lecturer": "S. Engels",
+        "location": "ECE Labs",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Computer Organizatn"
+    },
+    {
+        "course_code": "CSC258H1",
+        "datetime": "T6-9",
+        "lecturer": "S. Engels",
+        "location": "BA 1170",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Computer Organizatn"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "T10",
+        "lecturer": "F. Pitt",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "R10-12",
+        "lecturer": "F. Pitt",
+        "location": "LM 161",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "T10",
+        "lecturer": "F. Pitt",
+        "location": "BA 1170",
+        "section": "L2003",
+        "semester": "F",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "R10-12",
+        "lecturer": "F. Pitt",
+        "location": "LM 161",
+        "section": "L2003",
+        "semester": "F",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "MWF2",
+        "lecturer": "M. Craig",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "MWF3",
+        "lecturer": "M. Craig",
+        "location": "BA 1170",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "R6-8",
+        "lecturer": "F. Pitt",
+        "location": "BA 1160",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC263H1",
+        "datetime": "R8",
+        "lecturer": "F. Pitt",
+        "location": "BA 1160",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Data Struct & Anal"
+    },
+    {
+        "course_code": "CSC265H1",
+        "datetime": "M10-12",
+        "lecturer": "F. Ellen",
+        "location": "SS 1069",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Enr Data Struct Anal"
+    },
+    {
+        "course_code": "CSC265H1",
+        "datetime": "R11",
+        "lecturer": "F. Ellen",
+        "location": "SS 1069",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Enr Data Struct Anal"
+    },
+    {
+        "course_code": "CSC299Y1",
+        "datetime": "TBA",
+        "lecturer": "Tba",
+        "location": "SS 1069",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Rsch Opportunity Prg"
+    },
+    {
+        "course_code": "CSC299Y1",
+        "datetime": "TBA",
+        "lecturer": "Tba",
+        "location": "SS 1069",
+        "section": "L0201",
+        "semester": "Y",
+        "title": "Rsch Opportunity Prg"
+    },
+    {
+        "course_code": "CSC300H1",
+        "datetime": "W3-6",
+        "lecturer": "M. Zaleski",
+        "location": "SS 2127",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Computers & Society"
+    },
+    {
+        "course_code": "CSC300H1",
+        "datetime": "W6-9",
+        "lecturer": "J. Gonzalez",
+        "location": "MP 137",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Computers & Society"
+    },
+    {
+        "course_code": "CSC300H1",
+        "datetime": "R6-8",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1180",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Computers & Society"
+    },
+    {
+        "course_code": "CSC300H1",
+        "datetime": "R8",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1180",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Computers & Society"
+    },
+    {
+        "course_code": "CSC301H1",
+        "datetime": "TR10",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Soft Eng"
+    },
+    {
+        "course_code": "CSC301H1",
+        "datetime": "R11",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Soft Eng"
+    },
+    {
+        "course_code": "CSC301H1",
+        "datetime": "M6-9",
+        "lecturer": "J. Freund",
+        "location": "GB 120",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Intro to Soft Eng"
+    },
+    {
+        "course_code": "CSC301H1",
+        "datetime": "M6-9",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1200",
+        "section": "L2503",
+        "semester": "S",
+        "title": "Intro to Soft Eng"
+    },
+    {
+        "course_code": "CSC301H1",
+        "datetime": "M6-9",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1200",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Intro to Soft Eng"
+    },
+    {
+        "course_code": "CSC302H1",
+        "datetime": "TR10",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Eng Lrg Soft Sys"
+    },
+    {
+        "course_code": "CSC302H1",
+        "datetime": "R11",
+        "lecturer": "M. Abdelrazik Mansour Abdelk",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Eng Lrg Soft Sys"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "T2",
+        "lecturer": "E. Delara",
+        "location": "UC 161",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "R1-3",
+        "lecturer": "E. Delara",
+        "location": "UC 161",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "MWF3",
+        "lecturer": "E. Delara",
+        "location": "BA 1170",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "T2",
+        "lecturer": "E. Delara",
+        "location": "UC 161",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "R1-3",
+        "lecturer": "E. Delara",
+        "location": "UC 161",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "MW10",
+        "lecturer": "Tba",
+        "location": "LM 162",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "F10",
+        "lecturer": "Tba",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "MWF10",
+        "lecturer": "Tba",
+        "location": "MW: LM 162\r\n  F: BA 1170",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC309H1",
+        "datetime": "W6-9",
+        "lecturer": "Tba",
+        "location": "BA 1170",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Prog on the Web"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "R12",
+        "lecturer": "I. Posner",
+        "location": "UC 179",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "R1-3",
+        "lecturer": "I. Posner",
+        "location": "UC 179",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "R12",
+        "lecturer": "I. Posner",
+        "location": "UC 179",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "R1-3",
+        "lecturer": "I. Posner",
+        "location": "UC 179",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "M6",
+        "lecturer": "V. Pandeliev",
+        "location": "BA 1200",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "M7-9",
+        "lecturer": "V. Pandeliev",
+        "location": "BA 1200",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "M6",
+        "lecturer": "V. Pandeliev",
+        "location": "BA 1200",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "M7-9",
+        "lecturer": "V. Pandeliev",
+        "location": "BA 1200",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "T4-6",
+        "lecturer": "V. Pandeliev",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "T6",
+        "lecturer": "V. Pandeliev",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC318H1",
+        "datetime": "MWF11",
+        "lecturer": "V. Pandeliev",
+        "location": "LM 161",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Interact Comp Media"
+    },
+    {
+        "course_code": "CSC320H1",
+        "datetime": "MWF2",
+        "lecturer": "Tba",
+        "location": "SS 2110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro Visual Compt"
+    },
+    {
+        "course_code": "CSC320H1",
+        "datetime": "MWF2",
+        "lecturer": "Tba",
+        "location": "SS 2110",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Intro Visual Compt"
+    },
+    {
+        "course_code": "CSC320H1",
+        "datetime": "W6-9",
+        "lecturer": "K. Kutulakos",
+        "location": "BA 1210",
+        "section": "L2501",
+        "semester": "S",
+        "title": "Intro Visual Compt"
+    },
+    {
+        "course_code": "CSC320H1",
+        "datetime": "W6-9",
+        "lecturer": "K. Kutulakos",
+        "location": "BA 1210",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Intro Visual Compt"
+    },
+    {
+        "course_code": "CSC321H1",
+        "datetime": "TR1",
+        "lecturer": "Tba",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Neural Networks"
+    },
+    {
+        "course_code": "CSC321H1",
+        "datetime": "R12",
+        "lecturer": "Tba",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Neural Networks"
+    },
+    {
+        "course_code": "CSC321H1",
+        "datetime": "TR1",
+        "lecturer": "Tba",
+        "location": "BA 1200",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Neural Networks"
+    },
+    {
+        "course_code": "CSC321H1",
+        "datetime": "R12",
+        "lecturer": "Tba",
+        "location": "BA 1200",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Neural Networks"
+    },
+    {
+        "course_code": "CSC321H1",
+        "datetime": "T6-9",
+        "lecturer": "Tba",
+        "location": "BA 1220",
+        "section": "L2501",
+        "semester": "S",
+        "title": "Neural Networks"
+    },
+    {
+        "course_code": "CSC321H1",
+        "datetime": "T6-9",
+        "lecturer": "Tba",
+        "location": "BA 1220",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Neural Networks"
+    },
+    {
+        "course_code": "CSC324H1",
+        "datetime": "MWF11",
+        "lecturer": "Tba",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Prog Languages"
+    },
+    {
+        "course_code": "CSC324H1",
+        "datetime": "MWF11",
+        "lecturer": "Tba",
+        "location": "BA 1170",
+        "section": "L2003",
+        "semester": "F",
+        "title": "Prog Languages"
+    },
+    {
+        "course_code": "CSC324H1",
+        "datetime": "MW2",
+        "lecturer": "D. Liu",
+        "location": "SS 1073",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Prog Languages"
+    },
+    {
+        "course_code": "CSC324H1",
+        "datetime": "F2",
+        "lecturer": "D. Liu",
+        "location": "SS 1073",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Prog Languages"
+    },
+    {
+        "course_code": "CSC324H1",
+        "datetime": "T6-9",
+        "lecturer": "D. Liu",
+        "location": "SS 1073",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Prog Languages"
+    },
+    {
+        "course_code": "CSC336H1",
+        "datetime": "MWF11",
+        "lecturer": "K. Jackson",
+        "location": "LM 161",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Numerical Methods"
+    },
+    {
+        "course_code": "CSC336H1",
+        "datetime": "M6",
+        "lecturer": "C. Christara",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Numerical Methods"
+    },
+    {
+        "course_code": "CSC336H1",
+        "datetime": "M7-9",
+        "lecturer": "C. Christara",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Numerical Methods"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "T1-3",
+        "lecturer": "D. Horton",
+        "location": "BA 1180",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "R1",
+        "lecturer": "D. Horton",
+        "location": "BA 1180",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "W1-3",
+        "lecturer": "D. Horton",
+        "location": "RW 117",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "F1",
+        "lecturer": "D. Horton",
+        "location": "RW 117",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "T1-3",
+        "lecturer": "D. Horton",
+        "location": "BA 1180",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "R1",
+        "lecturer": "D. Horton",
+        "location": "BA 1180",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "W1-3",
+        "lecturer": "D. Horton",
+        "location": "RW 117",
+        "section": "L2003",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "F1",
+        "lecturer": "D. Horton",
+        "location": "RW 117",
+        "section": "L2003",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "T6-9",
+        "lecturer": "E. Papangelis",
+        "location": "BA 1170",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "T6-9",
+        "lecturer": "E. Papangelis",
+        "location": "BA 1170",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "MWF12",
+        "lecturer": "D. Horton",
+        "location": "MP 102",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "MWF2",
+        "lecturer": "D. Horton",
+        "location": "M: LM 161\r\n  WF: RW 117",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "MWF12",
+        "lecturer": "D. Horton",
+        "location": "MP 102",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "MWF2",
+        "lecturer": "D. Horton",
+        "location": "M: LM 161\r\nWF: RW 117",
+        "section": "L2201",
+        "semester": "S",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "R6-9",
+        "lecturer": "D. Liu",
+        "location": "BA 1130",
+        "section": "L2501",
+        "semester": "S",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC343H1",
+        "datetime": "R6-9",
+        "lecturer": "D. Liu",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Intro to Databases"
+    },
+    {
+        "course_code": "CSC358H1",
+        "datetime": "M10",
+        "lecturer": "P. Marbach",
+        "location": "SS 2102",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro Comp Networks"
+    },
+    {
+        "course_code": "CSC358H1",
+        "datetime": "R3-5",
+        "lecturer": "P. Marbach",
+        "location": "SS 2102",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro Comp Networks"
+    },
+    {
+        "course_code": "CSC358H1",
+        "datetime": "T6-9",
+        "lecturer": "Tba",
+        "location": "BA 1190",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Intro Comp Networks"
+    },
+    {
+        "course_code": "CSC369H1",
+        "datetime": "MWR12",
+        "lecturer": "K. Reid",
+        "location": "LM 158",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Operating Systems"
+    },
+    {
+        "course_code": "CSC369H1",
+        "datetime": "MWR2",
+        "lecturer": "K. Reid",
+        "location": "MP 134",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Operating Systems"
+    },
+    {
+        "course_code": "CSC369H1",
+        "datetime": "M3",
+        "lecturer": "K. Reid",
+        "location": "RW 110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Operating Systems"
+    },
+    {
+        "course_code": "CSC369H1",
+        "datetime": "TR2",
+        "lecturer": "K. Reid",
+        "location": "RW 110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Operating Systems"
+    },
+    {
+        "course_code": "CSC369H1",
+        "datetime": "R6-9",
+        "lecturer": "A. Demke Brown",
+        "location": "BA 1170",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Operating Systems"
+    },
+    {
+        "course_code": "CSC372H1",
+        "datetime": "M1, F4-6",
+        "lecturer": "H. Timorabadi",
+        "location": "BA 1180",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Microprocessor Sftwr"
+    },
+    {
+        "course_code": "CSC372H1",
+        "datetime": "T3-6",
+        "lecturer": "H. Timorabadi",
+        "location": "ECE Labs",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Microprocessor Sftwr"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "MWF10",
+        "lecturer": "F. Pitt",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "R2",
+        "lecturer": "F. Pitt",
+        "location": "TBA",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "W6-9",
+        "lecturer": "S. Cook",
+        "location": "BA 1200",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "R6",
+        "lecturer": "S. Cook",
+        "location": "BA 1200",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "MWF11",
+        "lecturer": "F. Pitt",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "M4",
+        "lecturer": "F. Pitt",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "MWF3",
+        "lecturer": "F. Pitt",
+        "location": "BA 1200",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC373H1",
+        "datetime": "M4",
+        "lecturer": "F. Pitt",
+        "location": "BA 1200",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Algo Design & Analysis"
+    },
+    {
+        "course_code": "CSC384H1",
+        "datetime": "TR1",
+        "lecturer": "E. Delisle",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro Artif Intell"
+    },
+    {
+        "course_code": "CSC384H1",
+        "datetime": "R2",
+        "lecturer": "E. Delisle",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro Artif Intell"
+    },
+    {
+        "course_code": "CSC384H1",
+        "datetime": "TR1",
+        "lecturer": "Tba",
+        "location": "BA 1770",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Intro Artif Intell"
+    },
+    {
+        "course_code": "CSC384H1",
+        "datetime": "R2",
+        "lecturer": "Tba",
+        "location": "BA 1770",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Intro Artif Intell"
+    },
+    {
+        "course_code": "CSC384H1",
+        "datetime": "MWF12",
+        "lecturer": "F. Bacchus",
+        "location": "BA 1170",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro Artif Intell"
+    },
+    {
+        "course_code": "CSC384H1",
+        "datetime": "MWF1",
+        "lecturer": "F. Bacchus",
+        "location": "BA 1170",
+        "section": "L0201",
+        "semester": "S",
+        "title": "Intro Artif Intell"
+    },
+    {
+        "course_code": "CSC384H1",
+        "datetime": "MWF12",
+        "lecturer": "F. Bacchus",
+        "location": "BA 1170",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Intro Artif Intell"
+    },
+    {
+        "course_code": "CSC401H1",
+        "datetime": "MWF10",
+        "lecturer": "Tba",
+        "location": "RW 110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Natural Lang Compt"
+    },
+    {
+        "course_code": "CSC401H1",
+        "datetime": "MWF10",
+        "lecturer": "Tba",
+        "location": "RW 110",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Natural Lang Compt"
+    },
+    {
+        "course_code": "CSC404H1",
+        "datetime": "T10",
+        "lecturer": "S. Engels",
+        "location": "BA 2175",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Video Game Design"
+    },
+    {
+        "course_code": "CSC404H1",
+        "datetime": "R10-12",
+        "lecturer": "S. Engels",
+        "location": "BA 2175",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Video Game Design"
+    },
+    {
+        "course_code": "CSC410H1",
+        "datetime": "M12",
+        "lecturer": "Tba",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Software Test & Verif"
+    },
+    {
+        "course_code": "CSC410H1",
+        "datetime": "W11-1",
+        "lecturer": "Tba",
+        "location": "SS 2110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Software Test & Verif"
+    },
+    {
+        "course_code": "CSC411H1",
+        "datetime": "MWF12",
+        "lecturer": "R. Zemel",
+        "location": "MP 134",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Machine Learning"
+    },
+    {
+        "course_code": "CSC411H1",
+        "datetime": "MWF3",
+        "lecturer": "R. Urtasun",
+        "location": "BA 1200",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Machine Learning"
+    },
+    {
+        "course_code": "CSC411H1",
+        "datetime": "MWF12",
+        "lecturer": "R. Zemel",
+        "location": "MP 134",
+        "section": "L2001",
+        "semester": "F",
+        "title": "Machine Learning"
+    },
+    {
+        "course_code": "CSC412H1",
+        "datetime": "T3-5",
+        "lecturer": "R. Neal",
+        "location": "BA 1210",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Uncertainty & Learng"
+    },
+    {
+        "course_code": "CSC412H1",
+        "datetime": "R1",
+        "lecturer": "R. Neal",
+        "location": "BA 1210",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Uncertainty & Learng"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "W6",
+        "lecturer": "L. Moore",
+        "location": "BA 1190",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "W7-9",
+        "lecturer": "L. Moore",
+        "location": "BA 1190",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "W6",
+        "lecturer": "Tba",
+        "location": "BA 1190",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "W7-9",
+        "lecturer": "Tba",
+        "location": "BA 1190",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "M3",
+        "lecturer": "Tba",
+        "location": "MP 134",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "W3-5",
+        "lecturer": "Tba",
+        "location": "MP 134",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "M3",
+        "lecturer": "Tba",
+        "location": "MP 134",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "W3-5",
+        "lecturer": "Tba",
+        "location": "MP 134",
+        "section": "L2001",
+        "semester": "S",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "T6",
+        "lecturer": "Tba",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC418H1",
+        "datetime": "T7-9",
+        "lecturer": "Tba",
+        "location": "BA 1130",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Computer Graphics"
+    },
+    {
+        "course_code": "CSC420H1",
+        "datetime": "TR3",
+        "lecturer": "S. Fidler",
+        "location": "BA 2185",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro Image Unstand"
+    },
+    {
+        "course_code": "CSC420H1",
+        "datetime": "R4",
+        "lecturer": "S. Fidler",
+        "location": "BA 2185",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro Image Unstand"
+    },
+    {
+        "course_code": "CSC428H1",
+        "datetime": "M10",
+        "lecturer": "O. St-Cyr",
+        "location": "BA 2185",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Human-Comp Interact"
+    },
+    {
+        "course_code": "CSC428H1",
+        "datetime": "W10-12",
+        "lecturer": "O. St-Cyr",
+        "location": "BA 2175",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Human-Comp Interact"
+    },
+    {
+        "course_code": "CSC428H1",
+        "datetime": "M6",
+        "lecturer": "O. St-Cyr",
+        "location": "BA 1230",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Human-Comp Interact"
+    },
+    {
+        "course_code": "CSC428H1",
+        "datetime": "M7-9",
+        "lecturer": "O. St-Cyr",
+        "location": "BA 1230",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Human-Comp Interact"
+    },
+    {
+        "course_code": "CSC428H1",
+        "datetime": "M6",
+        "lecturer": "O. St-Cyr",
+        "location": "BA 1230",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Human-Comp Interact"
+    },
+    {
+        "course_code": "CSC428H1",
+        "datetime": "M7-9",
+        "lecturer": "O. St-Cyr",
+        "location": "BA 1230",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Human-Comp Interact"
+    },
+    {
+        "course_code": "CSC436H1",
+        "datetime": "M1-3",
+        "lecturer": "C. Christara",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Numerical Algorithms"
+    },
+    {
+        "course_code": "CSC436H1",
+        "datetime": "R2",
+        "lecturer": "C. Christara",
+        "location": "SS 2127",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Numerical Algorithms"
+    },
+    {
+        "course_code": "CSC438H1",
+        "datetime": "M4-6",
+        "lecturer": "T. Pitassi",
+        "location": "BA 1230",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Computabil & Logic"
+    },
+    {
+        "course_code": "CSC438H1",
+        "datetime": "F12",
+        "lecturer": "T. Pitassi",
+        "location": "BA 1230",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Computabil & Logic"
+    },
+    {
+        "course_code": "CSC443H1",
+        "datetime": "M6-9",
+        "lecturer": "T. Pitassi",
+        "location": "BA 1210",
+        "section": "L2501",
+        "semester": "F",
+        "title": "Database Sys Techn"
+    },
+    {
+        "course_code": "CSC443H1",
+        "datetime": "M6-9",
+        "lecturer": "T. Pitassi",
+        "location": "BA 1210",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Database Sys Techn"
+    },
+    {
+        "course_code": "CSC443H1",
+        "datetime": "T6-9",
+        "lecturer": "Tba",
+        "location": "BA 1230",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Database Sys Techn"
+    },
+    {
+        "course_code": "CSC454H1",
+        "datetime": "W6-8",
+        "lecturer": "Tba",
+        "location": "BA 1210",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Business Software"
+    },
+    {
+        "course_code": "CSC454H1",
+        "datetime": "W8",
+        "lecturer": "Tba",
+        "location": "BA 1210",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Business Software"
+    },
+    {
+        "course_code": "CSC454H1",
+        "datetime": "W6-8",
+        "lecturer": "Tba",
+        "location": "BA 1240",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Business Software"
+    },
+    {
+        "course_code": "CSC454H1",
+        "datetime": "W8",
+        "lecturer": "Tba",
+        "location": "BA 1240",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Business Software"
+    },
+    {
+        "course_code": "CSC458H1",
+        "datetime": "T1-3",
+        "lecturer": "Y. Ganjali",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Computer Networks"
+    },
+    {
+        "course_code": "CSC458H1",
+        "datetime": "F1",
+        "lecturer": "Y. Ganjali",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Computer Networks"
+    },
+    {
+        "course_code": "CSC458H1",
+        "datetime": "R1-3",
+        "lecturer": "Y. Ganjali",
+        "location": "BA 1200",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Computer Networks"
+    },
+    {
+        "course_code": "CSC458H1",
+        "datetime": "F11",
+        "lecturer": "Y. Ganjali",
+        "location": "BA 1200",
+        "section": "L0201",
+        "semester": "F",
+        "title": "Computer Networks"
+    },
+    {
+        "course_code": "CSC463H1",
+        "datetime": "MWF2",
+        "lecturer": "S. Cook",
+        "location": "MP 134",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Complex & Comput"
+    },
+    {
+        "course_code": "CSC465H1",
+        "datetime": "R6-8",
+        "lecturer": "Tba",
+        "location": "BA 1240",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC465H1",
+        "datetime": "R8",
+        "lecturer": "Tba",
+        "location": "BA 1240",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Software Design"
+    },
+    {
+        "course_code": "CSC469H1",
+        "datetime": "R10-12",
+        "lecturer": "A. Demke Brown",
+        "location": "SS 2106",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Oper Sys Design"
+    },
+    {
+        "course_code": "CSC469H1",
+        "datetime": "R1",
+        "lecturer": "A. Demke Brown",
+        "location": "SS 2108",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Oper Sys Design"
+    },
+    {
+        "course_code": "CSC485H1",
+        "datetime": "W1-3",
+        "lecturer": "G. Hirst",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Comp Linguistics"
+    },
+    {
+        "course_code": "CSC485H1",
+        "datetime": "R4",
+        "lecturer": "G. Hirst",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Comp Linguistics"
+    },
+    {
+        "course_code": "CSC486H1",
+        "datetime": "W1",
+        "lecturer": "Tba",
+        "location": "BA B024",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Knowledge Rep & Reas"
+    },
+    {
+        "course_code": "CSC486H1",
+        "datetime": "F12-2",
+        "lecturer": "Tba",
+        "location": "BA B024",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Knowledge Rep & Reas"
+    },
+    {
+        "course_code": "CSC488H1",
+        "datetime": "T2",
+        "lecturer": "Tba",
+        "location": "BA 1200",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Compilers & Interpreters"
+    },
+    {
+        "course_code": "CSC488H1",
+        "datetime": "R1",
+        "lecturer": "Tba",
+        "location": "SS 2127",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Compilers & Interpreters"
+    },
+    {
+        "course_code": "CSC488H1",
+        "datetime": "R2",
+        "lecturer": "Tba",
+        "location": "SS 2127",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Compilers & Interpreters"
+    },
+    {
+        "course_code": "CSC490H1",
+        "datetime": "R3-5",
+        "lecturer": "Tba",
+        "location": "RS 208",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Capstone Design Proj"
+    },
+    {
+        "course_code": "CSC494H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "RS 208",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Project in CSC"
+    },
+    {
+        "course_code": "CSC494H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "RS 208",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Project in CSC"
+    },
+    {
+        "course_code": "CSC494H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "RS 208",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Project in CSC"
+    },
+    {
+        "course_code": "CSC495H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "RS 208",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Project in CSC"
+    },
+    {
+        "course_code": "CSC495H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "RS 208",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Project in CSC"
+    },
+    {
+        "course_code": "CSC495H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "RS 208",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Project in CSC"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "M1-3",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\n  Winter: WI 1016",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "M1-3",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\nWinter: WI 1016",
+        "section": "L2001",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "M3",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\nWinter: WI 1016",
+        "section": "T0101",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "M4",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\nWinter: WI 1016",
+        "section": "T0201",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "W3",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\nWinter: WI 1016",
+        "section": "T0301",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "W4",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\nWinter: WI 1016",
+        "section": "T0401",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "M3",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\nWinter: WI 1016",
+        "section": "T2001",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS201Y1",
+        "datetime": "W5",
+        "lecturer": "Tba",
+        "location": "Fall: RW 117\r\nWinter: WI 1016",
+        "section": "T5101",
+        "semester": "Y",
+        "title": "Intro Indigenous Stu"
+    },
+    {
+        "course_code": "ABS205H1",
+        "datetime": "M10-12",
+        "lecturer": "Tba",
+        "location": "SS 2105",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Indigenous Spirituality"
+    },
+    {
+        "course_code": "ABS210Y1",
+        "datetime": "T5-8",
+        "lecturer": "A. McKay",
+        "location": "SS 2105",
+        "section": "L5101",
+        "semester": "Y",
+        "title": "Intro Anishinaabemowin"
+    },
+    {
+        "course_code": "ABS210Y1",
+        "datetime": "F10",
+        "lecturer": "A. McKay",
+        "location": "SS 2105",
+        "section": "T0101",
+        "semester": "Y",
+        "title": "Intro Anishinaabemowin"
+    },
+    {
+        "course_code": "ABS210Y1",
+        "datetime": "F11",
+        "lecturer": "A. McKay",
+        "location": "SS 2105",
+        "section": "T0201",
+        "semester": "Y",
+        "title": "Intro Anishinaabemowin"
+    },
+    {
+        "course_code": "ABS220Y1",
+        "datetime": "M6-9",
+        "lecturer": "Tba",
+        "location": "KP 113",
+        "section": "L5101",
+        "semester": "Y",
+        "title": "Iroquoian Language"
+    },
+    {
+        "course_code": "ABS230H1",
+        "datetime": "R5-8",
+        "lecturer": "A. Johns",
+        "location": "HA 316",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Intro Inukitut"
+    },
+    {
+        "course_code": "ABS231H1",
+        "datetime": "R5-8",
+        "lecturer": "A. Johns",
+        "location": "HA 316",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Elementary Inuktitut"
+    },
+    {
+        "course_code": "ABS250H1",
+        "datetime": "M10-12",
+        "lecturer": "Tba",
+        "location": "RW 143",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Indigenous Science"
+    },
+    {
+        "course_code": "ABS261H1",
+        "datetime": "M10-12",
+        "lecturer": "Tba",
+        "location": "SS 1088",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Contemp Challenges"
+    },
+    {
+        "course_code": "ABS300Y1",
+        "datetime": "W1-4",
+        "lecturer": "Tba",
+        "location": "UC 52",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Oral Tradition"
+    },
+    {
+        "course_code": "ABS301Y1",
+        "datetime": "T2-4",
+        "lecturer": "A. McKay",
+        "location": "Fall: RW 229\r\nWinter: RW 143",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Native Lang & Cult"
+    },
+    {
+        "course_code": "ABS310Y1",
+        "datetime": "R5-8",
+        "lecturer": "A. McKay",
+        "location": "Fall: RW 229\r\nWinter: RW 143",
+        "section": "L5101",
+        "semester": "Y",
+        "title": "Anishinaabemowin II"
+    },
+    {
+        "course_code": "ABS322H1",
+        "datetime": "T2-5",
+        "lecturer": "C. Suzack",
+        "location": "BF 215",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Indigenous Narratives"
+    },
+    {
+        "course_code": "ABS352H1",
+        "datetime": "R10-12",
+        "lecturer": "Tba",
+        "location": "SS 1086",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Indigenous Leadership"
+    },
+    {
+        "course_code": "ABS390H1",
+        "datetime": "W10-12",
+        "lecturer": "Tba",
+        "location": "SS 1084",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Research and Ethics"
+    },
+    {
+        "course_code": "ABS402H1",
+        "datetime": "T12-2",
+        "lecturer": "Tba",
+        "location": "AB 114",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Indigenous Knowledge"
+    },
+    {
+        "course_code": "ABS403H1",
+        "datetime": "T12-2",
+        "lecturer": "Tba",
+        "location": "BA 2139",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Indigenous Peoples"
+    },
+    {
+        "course_code": "ABS403H1",
+        "datetime": "T5-7",
+        "lecturer": "D. McGregor",
+        "location": "SS 2115",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Indigenous Peoples"
+    },
+    {
+        "course_code": "ABS460H1",
+        "datetime": "W10-1",
+        "lecturer": "Tba",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Aboriginal Methods"
+    },
+    {
+        "course_code": "ABS493H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Independent Studies"
+    },
+    {
+        "course_code": "ABS493H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Studies"
+    },
+    {
+        "course_code": "ABS494Y1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Independent Studies"
+    },
+    {
+        "course_code": "ABS495Y1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ABS495Y1",
+        "datetime": "TBA",
+        "lecturer": "Tba",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ABS496H1",
+        "datetime": "TBA",
+        "lecturer": "Tba",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ABS496H1",
+        "datetime": "TBA",
+        "lecturer": "Tba",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ABS497H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ABS498Y1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "UC 175",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "JFP450H1",
+        "datetime": "R2-4",
+        "lecturer": "D. Burman",
+        "location": "TBA",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Aboriginal Healing"
+    },
+    {
+        "course_code": "USA200H1",
+        "datetime": "R1-3",
+        "lecturer": "E.Truman",
+        "location": "SS 1086",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Intro American Study"
+    },
+    {
+        "course_code": "USA300H1",
+        "datetime": "T12-2",
+        "lecturer": "Tba",
+        "location": "SS 1074",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Theories and Methods"
+    },
+    {
+        "course_code": "USA300H1",
+        "datetime": "T2",
+        "lecturer": "Tba",
+        "location": "SS 1074",
+        "section": "T0101",
+        "semester": "S",
+        "title": "Theories and Methods"
+    },
+    {
+        "course_code": "USA300H1",
+        "datetime": "T3",
+        "lecturer": "Tba",
+        "location": "SS 1074",
+        "section": "T0201",
+        "semester": "S",
+        "title": "Theories and Methods"
+    },
+    {
+        "course_code": "USA310H1",
+        "datetime": "T10-12",
+        "lecturer": "C.Henry",
+        "location": "RW 143",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Appr American Studies"
+    },
+    {
+        "course_code": "USA311H1",
+        "datetime": "M6-8",
+        "lecturer": "A.Jones",
+        "location": "SS 1086",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Appr American Studies"
+    },
+    {
+        "course_code": "USA400H1",
+        "datetime": "T12-2",
+        "lecturer": "P. Loewen",
+        "location": "SS 2120",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Topics in Amer St"
+    },
+    {
+        "course_code": "USA401H1",
+        "datetime": "W6-8",
+        "lecturer": "R.Gordan",
+        "location": "SS 2101",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Topics in Amer St"
+    },
+    {
+        "course_code": "USA402H1",
+        "datetime": "W6-8",
+        "lecturer": "Tba",
+        "location": "UC 376",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Topics in Amer St"
+    },
+    {
+        "course_code": "USA403H1",
+        "datetime": "W11-1",
+        "lecturer": "L. Yoneyama",
+        "location": "WE 74",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Topics in Amer St"
+    },
+    {
+        "course_code": "USA494H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "WE 74",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Independent Studies"
+    },
+    {
+        "course_code": "USA494H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "WE 74",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Studies"
+    },
+    {
+        "course_code": "USA495Y1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "WE 74",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Independent Studies"
+    },
+    {
+        "course_code": "ANA300Y1",
+        "datetime": "MT9",
+        "lecturer": "B. Ballyk",
+        "location": "MS2158",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Human Anat Histol"
+    },
+    {
+        "course_code": "ANA300Y1",
+        "datetime": "F10-12",
+        "lecturer": "B. Ballyk",
+        "location": "MS 2158",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Human Anat Histol"
+    },
+    {
+        "course_code": "ANA301H1",
+        "datetime": "MF1-3",
+        "lecturer": "Wiley/Taylor",
+        "location": "MS 2158",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Human Embryology"
+    },
+    {
+        "course_code": "ANA400H1",
+        "datetime": "TR1-3",
+        "lecturer": "I. Taylor",
+        "location": "TBA",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Anatomy Dissections"
+    },
+    {
+        "course_code": "ANA498Y1",
+        "datetime": "TBA",
+        "lecturer": "C. Morshead",
+        "location": "TBA",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Research Project"
+    },
+    {
+        "course_code": "ANT100Y1",
+        "datetime": "R6-8",
+        "lecturer": "Kalmar/Friesen/Lehman",
+        "location": "CH",
+        "section": "L2001",
+        "semester": "Y",
+        "title": "Intro Anthropology"
+    },
+    {
+        "course_code": "ANT100Y1",
+        "datetime": "R6-8",
+        "lecturer": "Kalmar/Friesen/Lehman",
+        "location": "CH",
+        "section": "L5101",
+        "semester": "Y",
+        "title": "Intro Anthropology"
+    },
+    {
+        "course_code": "ANT110H1",
+        "datetime": "T6-8",
+        "lecturer": "H. Cunningham",
+        "location": "KP 108",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Nature: Cultural Intro"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "M6-8",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "L5101",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "T10",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0101",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "T11",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0201",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "T12",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0301",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "W1",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0401",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "W2",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0501",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "W3",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0601",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "R1",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0701",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "R2",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T0801",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "M8",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T5101",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT200Y1",
+        "datetime": "W5",
+        "lecturer": "Chazan/Patton",
+        "location": "ES 1050",
+        "section": "T5201",
+        "semester": "Y",
+        "title": "Intro Archaeology"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "T6-8",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "L5101",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W10",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P0101",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W11",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P0201",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W12",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P0301",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W1",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P0401",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W2",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P0501",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W4",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P0601",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W5",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P5101",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT203Y1",
+        "datetime": "W6",
+        "lecturer": "Wade/Reid",
+        "location": "MS 3154",
+        "section": "P5201",
+        "semester": "Y",
+        "title": "Nature of Humans"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "W4-6",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R10",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T0101",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R11",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T0201",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R12",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T0301",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R1",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T0401",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R2",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T0501",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R3",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T0601",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R4",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T0701",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "F12",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T1001",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "W6",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T5101",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "W7",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T5201",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT204H1",
+        "datetime": "R5",
+        "lecturer": "P. Dave",
+        "location": "ES 1050",
+        "section": "T5301",
+        "semester": "F",
+        "title": "Ant of Contemp World"
+    },
+    {
+        "course_code": "ANT207H1",
+        "datetime": "R2-4",
+        "lecturer": "J. Boddy",
+        "location": "PB B250",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Core Concepts Social"
+    },
+    {
+        "course_code": "ANT207H1",
+        "datetime": "W12",
+        "lecturer": "J. Boddy",
+        "location": "PB B250",
+        "section": "T0301",
+        "semester": "F",
+        "title": "Core Concepts Social"
+    },
+    {
+        "course_code": "ANT207H1",
+        "datetime": "W1",
+        "lecturer": "J. Boddy",
+        "location": "PB B250",
+        "section": "T0401",
+        "semester": "F",
+        "title": "Core Concepts Social"
+    },
+    {
+        "course_code": "ANT207H1",
+        "datetime": "W2",
+        "lecturer": "J. Boddy",
+        "location": "PB B250",
+        "section": "T0501",
+        "semester": "F",
+        "title": "Core Concepts Social"
+    },
+    {
+        "course_code": "ANT207H1",
+        "datetime": "R12",
+        "lecturer": "J. Boddy",
+        "location": "PB B250",
+        "section": "T0801",
+        "semester": "F",
+        "title": "Core Concepts Social"
+    },
+    {
+        "course_code": "ANT207H1",
+        "datetime": "R1",
+        "lecturer": "J. Boddy",
+        "location": "PB B250",
+        "section": "T0901",
+        "semester": "F",
+        "title": "Core Concepts Social"
+    },
+    {
+        "course_code": "ANT207H1",
+        "datetime": "R4",
+        "lecturer": "J. Boddy",
+        "location": "PB B250",
+        "section": "T1001",
+        "semester": "F",
+        "title": "Core Concepts Social"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "R10-12",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "R12",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0101",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "R1",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0201",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "R2",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0301",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "R3",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0401",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "R4",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0501",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "F10",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0601",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "F11",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0701",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "F12",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0801",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "F1",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T0901",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT208H1",
+        "datetime": "R5",
+        "lecturer": "D. Sellen",
+        "location": "OI G162",
+        "section": "T5101",
+        "semester": "F",
+        "title": "Med Ant Evol Perspec"
+    },
+    {
+        "course_code": "ANT253H1",
+        "datetime": "T6-8",
+        "lecturer": "M. Danesi",
+        "location": "OI G162",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Language & Society"
+    },
+    {
+        "course_code": "ANT315H1",
+        "datetime": "W2-4",
+        "lecturer": "T.Friesen",
+        "location": "SS 2108",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Arctic Archaeology"
+    },
+    {
+        "course_code": "ANT317H1",
+        "datetime": "W2-4",
+        "lecturer": "A.Patton",
+        "location": "SS 2106",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Arch East N Amer"
+    },
+    {
+        "course_code": "ANT322H1",
+        "datetime": "W2-4",
+        "lecturer": "M. Danesi",
+        "location": "ES 1050",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Ant of Youth Culture"
+    },
+    {
+        "course_code": "ANT324H1",
+        "datetime": "T4-6",
+        "lecturer": "J.Stinson",
+        "location": "SS 1073",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Tourism & Global"
+    },
+    {
+        "course_code": "ANT329H1",
+        "datetime": "T10-12",
+        "lecturer": "H. Luong",
+        "location": "MP 134",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Lang Power Structure"
+    },
+    {
+        "course_code": "ANT329H1",
+        "datetime": "T4",
+        "lecturer": "H. Luong",
+        "location": "MP 134",
+        "section": "T0101",
+        "semester": "F",
+        "title": "Lang Power Structure"
+    },
+    {
+        "course_code": "ANT329H1",
+        "datetime": "W10",
+        "lecturer": "H. Luong",
+        "location": "MP 134",
+        "section": "T0201",
+        "semester": "F",
+        "title": "Lang Power Structure"
+    },
+    {
+        "course_code": "ANT329H1",
+        "datetime": "W2",
+        "lecturer": "H. Luong",
+        "location": "MP 134",
+        "section": "T0301",
+        "semester": "F",
+        "title": "Lang Power Structure"
+    },
+    {
+        "course_code": "ANT329H1",
+        "datetime": "T5",
+        "lecturer": "H. Luong",
+        "location": "MP 134",
+        "section": "T5101",
+        "semester": "F",
+        "title": "Lang Power Structure"
+    },
+    {
+        "course_code": "ANT333Y1",
+        "datetime": "T12-2",
+        "lecturer": "Lehman/Reid",
+        "location": "LM 158",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Liv Primate Adapt"
+    },
+    {
+        "course_code": "ANT333Y1",
+        "datetime": "F12-2",
+        "lecturer": "Lehman/Reid",
+        "location": "LM 158",
+        "section": "P0101",
+        "semester": "Y",
+        "title": "Liv Primate Adapt"
+    },
+    {
+        "course_code": "ANT333Y1",
+        "datetime": "F3-5",
+        "lecturer": "Lehman/Reid",
+        "location": "LM 158",
+        "section": "P0201",
+        "semester": "Y",
+        "title": "Liv Primate Adapt"
+    },
+    {
+        "course_code": "ANT334H1",
+        "datetime": "W10-12",
+        "lecturer": "S. Pfeiffer",
+        "location": "SS 2108",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Human Skeletal Biol"
+    },
+    {
+        "course_code": "ANT334H1",
+        "datetime": "R10-12",
+        "lecturer": "S. Pfeiffer",
+        "location": "SS 2108",
+        "section": "P0101",
+        "semester": "F",
+        "title": "Human Skeletal Biol"
+    },
+    {
+        "course_code": "ANT334H1",
+        "datetime": "R1-3",
+        "lecturer": "S. Pfeiffer",
+        "location": "SS 2108",
+        "section": "P0201",
+        "semester": "F",
+        "title": "Human Skeletal Biol"
+    },
+    {
+        "course_code": "ANT335Y1",
+        "datetime": "M10-12",
+        "lecturer": "D. Begun",
+        "location": "SS 2106",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Human Evolution"
+    },
+    {
+        "course_code": "ANT335Y1",
+        "datetime": "M1-4",
+        "lecturer": "D. Begun",
+        "location": "SS 2106",
+        "section": "P0101",
+        "semester": "F",
+        "title": "Human Evolution"
+    },
+    {
+        "course_code": "ANT335Y1",
+        "datetime": "T1-4",
+        "lecturer": "D. Begun",
+        "location": "SS 2106",
+        "section": "P0201",
+        "semester": "F",
+        "title": "Human Evolution"
+    },
+    {
+        "course_code": "ANT335Y1",
+        "datetime": "W1-4",
+        "lecturer": "D. Begun",
+        "location": "SS 2106",
+        "section": "P0301",
+        "semester": "F",
+        "title": "Human Evolution"
+    },
+    {
+        "course_code": "ANT336H1",
+        "datetime": "T10-12",
+        "lecturer": "S. Pfeiffer",
+        "location": "SS 2127",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Evol Anth Theory"
+    },
+    {
+        "course_code": "ANT341H1",
+        "datetime": "R12-2",
+        "lecturer": "W.Sung",
+        "location": "SS 1073",
+        "section": "L0101",
+        "semester": "S",
+        "title": "China in Transition"
+    },
+    {
+        "course_code": "ANT343H1",
+        "datetime": "R2-4",
+        "lecturer": "C.Little",
+        "location": "SS 2110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Social Ant of Gender"
+    },
+    {
+        "course_code": "ANT348H1",
+        "datetime": "M12-2",
+        "lecturer": "K. Maxwell",
+        "location": "SS 2106",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Anthrop of Health"
+    },
+    {
+        "course_code": "ANT349H1",
+        "datetime": "T6-8",
+        "lecturer": "A. Widmer",
+        "location": "GB 405",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Ant & New Technologies"
+    },
+    {
+        "course_code": "ANT351H1",
+        "datetime": "R10-12",
+        "lecturer": "J.Stinson",
+        "location": "SS 1085",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Contested Environ"
+    },
+    {
+        "course_code": "ANT358H1",
+        "datetime": "W10-12",
+        "lecturer": "L.Sikstrom",
+        "location": "SS 1069",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Med Ant & Soc Just"
+    },
+    {
+        "course_code": "ANT370H1",
+        "datetime": "W10-12",
+        "lecturer": "H. Wardlow",
+        "location": "LM 158",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Intro Soc Ant Theory"
+    },
+    {
+        "course_code": "ANT372H1",
+        "datetime": "T10-12",
+        "lecturer": "C. Krmpotich",
+        "location": "SS 2110",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Cultural Property"
+    },
+    {
+        "course_code": "ANT372H1",
+        "datetime": "W6-8",
+        "lecturer": "H. Cunningham",
+        "location": "MS 2172",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Cultural Property"
+    },
+    {
+        "course_code": "ANT378H1",
+        "datetime": "W12-2",
+        "lecturer": "J. Song",
+        "location": "SS 2106",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Gift Money Finance"
+    },
+    {
+        "course_code": "ANT380H1",
+        "datetime": "M3-6",
+        "lecturer": "S. Satsuka",
+        "location": "SS 2111",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Craft Soc Cult Ant"
+    },
+    {
+        "course_code": "ANT410H1",
+        "datetime": "T2-4",
+        "lecturer": "A.Patton",
+        "location": "SS 1080",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Hunter - Gatherers"
+    },
+    {
+        "course_code": "ANT411H1",
+        "datetime": "W12-2",
+        "lecturer": "A.Patton",
+        "location": "SS 1080",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Adv Archaeol Theory"
+    },
+    {
+        "course_code": "ANT412H1",
+        "datetime": "M2-5",
+        "lecturer": "E. Banning",
+        "location": "AP 130",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Historical Archaeology"
+    },
+    {
+        "course_code": "ANT419H1",
+        "datetime": "T2-5",
+        "lecturer": "M. Chazan",
+        "location": "AP 130",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Curr. Deb. In Pal. Arch"
+    },
+    {
+        "course_code": "ANT420H1",
+        "datetime": "M12-2",
+        "lecturer": "G. Coupland",
+        "location": "SS 1078",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Arch of Inequality"
+    },
+    {
+        "course_code": "ANT425H1",
+        "datetime": "M10-12",
+        "lecturer": "H. Luong",
+        "location": "AP 124",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Lang in Ant Thought"
+    },
+    {
+        "course_code": "ANT426H1",
+        "datetime": "T2-4",
+        "lecturer": "I. Kalmar",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "S",
+        "title": "West Views of Non-West"
+    },
+    {
+        "course_code": "ANT427H1",
+        "datetime": "M6-8",
+        "lecturer": "D. Riskedahl",
+        "location": "SS 2101",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Lang Ideo Polit Econ"
+    },
+    {
+        "course_code": "ANT432H1",
+        "datetime": "W2-4",
+        "lecturer": "J.Newton",
+        "location": "AP 124",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Evolving Human Skull"
+    },
+    {
+        "course_code": "ANT432H1",
+        "datetime": "W4",
+        "lecturer": "J.Newton",
+        "location": "AP 124",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Evolving Human Skull"
+    },
+    {
+        "course_code": "ANT434H1",
+        "datetime": "M10-12",
+        "lecturer": "S. Pfeiffer",
+        "location": "AP 130",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Health, Diet & Dis"
+    },
+    {
+        "course_code": "ANT434H1",
+        "datetime": "M1-3",
+        "lecturer": "S. Pfeiffer",
+        "location": "AP 130",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Health, Diet & Dis"
+    },
+    {
+        "course_code": "ANT435H1",
+        "datetime": "W6-8",
+        "lecturer": "L.Sikstrom",
+        "location": "SS 2101",
+        "section": "L5101",
+        "semester": "S",
+        "title": "Anthropol Childcare"
+    },
+    {
+        "course_code": "ANT438H1",
+        "datetime": "R10-12",
+        "lecturer": "T. Steffens",
+        "location": "UC 67",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Emerging Schol Bio subtitle added"
+    },
+    {
+        "course_code": "ANT440H1",
+        "datetime": "M6-9",
+        "lecturer": "T. Li",
+        "location": "AP 124",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Society in Transition"
+    },
+    {
+        "course_code": "ANT445H1",
+        "datetime": "T4-6",
+        "lecturer": "S. Satsuka",
+        "location": "AP 124",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Science as Cult&Prac"
+    },
+    {
+        "course_code": "ANT447H1",
+        "datetime": "T12-2",
+        "lecturer": "J. Barker",
+        "location": "SS 1080",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Ethnographic Pra: Metropolis"
+    },
+    {
+        "course_code": "ANT450H1",
+        "datetime": "R4-6",
+        "lecturer": "H. Cunningham",
+        "location": "KP 113",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Nature, Culture City"
+    },
+    {
+        "course_code": "ANT451H1",
+        "datetime": "R2-4",
+        "lecturer": "G. Gillison",
+        "location": "NF 008",
+        "section": "L0101",
+        "semester": "F",
+        "title": "His of Ant Thought"
+    },
+    {
+        "course_code": "ANT458H1",
+        "datetime": "M12-2",
+        "lecturer": "K. Maxwell",
+        "location": "AP 124",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Settler-Colonialism"
+    },
+    {
+        "course_code": "ANT460H1",
+        "datetime": "R4-6",
+        "lecturer": "H. Wardlow",
+        "location": "SS 2120",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Global Women Health"
+    },
+    {
+        "course_code": "ANT475H1",
+        "datetime": "M10-12",
+        "lecturer": "V. Napolitano",
+        "location": "AP 124",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Reading Ethnography"
+    },
+    {
+        "course_code": "ANT476H1",
+        "datetime": "M2-5",
+        "lecturer": "J. Boddy",
+        "location": "AP 124",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Body, Self & Sociality"
+    },
+    {
+        "course_code": "ANT484H1",
+        "datetime": "T2-4",
+        "lecturer": "Y. Wu",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Spec Topic Soc Cult\r\n      (Class Beyond the Cultural Turn: Theory, History and Ethnography subtitle added"
+    },
+    {
+        "course_code": "ANT485H1",
+        "datetime": "R10-12",
+        "lecturer": "A. Gonzalez",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Emerging Schol Scl subtitle changed"
+    },
+    {
+        "course_code": "ANT486H1",
+        "datetime": "W6-8",
+        "lecturer": "H. Wardlow",
+        "location": "SS 570",
+        "section": "L5101",
+        "semester": "F",
+        "title": "Socio-Cult Rsch Sem "
+    },
+    {
+        "course_code": "ANT497Y1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT497Y1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT497Y1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT498H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT498H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT498H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT499H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "F",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT499H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "S",
+        "title": "Independent Research"
+    },
+    {
+        "course_code": "ANT499H1",
+        "datetime": "TBA",
+        "lecturer": "Staff",
+        "location": "SS 570",
+        "section": "L0101",
+        "semester": "Y",
+        "title": "Independent Research"
+    }
+]

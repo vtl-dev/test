@@ -1,0 +1,6 @@
+{
+	"user": "",
+	"dbn": "postgres",
+	"pw": "",
+	"dbname": "test"
+}

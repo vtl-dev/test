@@ -1,0 +1,132 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+#content {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: 999;
+	padding-top: 50px;
+
+	div[id*="Content"] {
+		position: relative;
+		float: left;
+		height: 100%;
+	}
+
+	#leftContent {
+		padding: 1em;
+		width: 25%;
+	}
+
+	#rightContent {
+		background: lighten(gray, 30%);
+		width: 75%;
+	}
+}
+
+#calendar {
+	height: 95%;
+	width: 95%;
+	margin: 1.25% auto;
+	border: 1px solid black;
+	border-radius: 0.25em;
+	background: #fff;
+
+	#calenderHeader {
+		height: 15%;
+		text-align: center;
+
+		> div.row {
+			&:first-child {
+				height: 66%;
+			}
+
+			span.glyphicon {
+				&:hover {
+					cursor: pointer;
+				}
+
+				&:first-child {
+					margin-right: 1em;
+				}
+
+				&:last-child {
+					margin-left: 1em;
+				}
+			}
+
+			&:last-child {
+				height: 34%;
+			}
+
+			> div {
+				display: inline-block;
+	    		vertical-align: middle;
+	    		border: 1px solid darken(#4c7be5, 20%);
+			}
+		}
+
+		background: #c0d5f0;
+	}
+
+	#calendarBody {
+		height: 85%;
+
+		div {
+			&.month {
+				height: 20%;
+			}
+
+			&.week {	
+			}
+
+		}
+
+		.row {
+			margin: 0;
+		}
+
+		div[class^="col-"] {
+			background: #fff;
+			border: 1px solid darken(#c0d5f0, 30%);
+		}
+	}
+
+	div[class^="col-"] {
+		height: 100%;
+	}
+}
+
+.full-height {
+	height: 100%;
+}
+
+#login, #createUser {
+	width: 40%;
+	border: 1px solid #ccc;
+	background: #eee;
+	padding-bottom: 2em;
+	border-radius: 10px;
+
+	button {
+		margin-top: 1em;
+	}
+
+}
+
+.red {
+	color: red;
+}
+
+span.links {
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+
+	.separator {
+		margin: 0 1em;
+	}
+}
